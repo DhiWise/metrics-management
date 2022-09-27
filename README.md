@@ -33,7 +33,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is integrated with a [Tailwind CSS](https://tailwindcss.com/) setup, a new utility-first css framework, in an CRA environment. You can read more over on [Getting Started with Tailwind](https://tailwindcss.com/docs/installation).
 
-Figma: https://www.figma.com/file/Erq165ue4ltdsHZMbQzo8u/Metrics-Mapping
+Figma: https://www.figma.com/file/ydymsJ3zyOSPfLBfy6ZUZA/Metric-management?node-id=0%3A1
 
 ### API Information
 1. [ClickUp APIs](https://clickup.com/api)
